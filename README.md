@@ -1,5 +1,5 @@
 # clickgame.github.io
-クリック型のゲームを作ってmita
+クリック型のゲームを作ってみた
 
 
 
