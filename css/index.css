@@ -1,0 +1,33 @@
+body {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);   
+    background-color: aliceblue; 
+}
+
+header { 
+    margin: 10px;
+}
+#game {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    position: relative;
+  }
+  
+  #target {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  #score {
+    position: absolute;
+    top: -20px;
+    left: 10px;
+  }
+  
